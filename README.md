@@ -13,7 +13,7 @@ To launch this bot, follow these steps:
        username: 'bot',
    });
    ```
-4. Run `node index.js` in the terminal.
+4. Run `node src/index.js` in the terminal.
 Done!
 
 **RU**
@@ -29,5 +29,5 @@ Done!
        username: 'bot',
    });
    ```
-4. В терминале выполните команду `node index.js`.
+4. В терминале выполните команду `node src/index.js`.
 Готово!
