@@ -3,7 +3,7 @@ EN
 
 To launch this bot, you just need to
 1. download the code and my project.
-2. Register in the npm install console, after which you will have unused packages installed.
+2. Wrote in the npm install console, after which you will have unused packages installed.
 3. enter the necessary data in the line.
 const bot = mindflayer.createBot({
 host: '127.0.0.1', //localhost or 127.0.0.1 or your server
@@ -17,7 +17,7 @@ RU
 
 Чтобы запустить данного бота вам нужно просто 
 1. скачайте код и мой проект.
-2. зарегистрируйтесь в консоли npm install, после чего у вас будут установлены неиспользуемые пакеты.
+2. написать в консоли npm install, после чего у вас будут установлены неиспользуемые пакеты.
 3. прописать в строке необходимые данные.
 const bot = mindflayer.createBot({
 host: '127.0.0.1',//localhost или 127.0.0.1 или твой сервер
