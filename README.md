@@ -10,7 +10,8 @@ host: '127.0.0.1', //localhost or 127.0.0.1 or your server
 port: 5000, //port if you have a local server
 username: 'bot',
 });
-4. Write node index in the console.js
+4. Write node index in the console.js.
+5. 5. Write to the minecraft chat start fishing, or if you need to stop fishing stop fishing.
 Done
 
 RU
@@ -24,5 +25,6 @@ host: '127.0.0.1',//localhost или 127.0.0.1 или твой сервер
 port: 5000, //port если у тебя локальный сервер
 username: 'bot',
 });
-4. Написать в консоли node index.js
+4. Написать в консоли node index.js.
+5. Написать в чат маинкрафта start fishing, или если надо остановить рыбалку stop fishing.
 Готово
